@@ -1,0 +1,89 @@
+[
+  {
+  "imageSrc": "https://static.wikia.nocookie.net/cowboybebop/images/3/38/1_BellPeppers.png",
+  "title": "Bell peppers and beef",
+  "ingredients": [
+    "poivron jaune",
+    "poivron vert",
+    "champignon",
+    "oignon",
+    "[boeuf]"
+    ]
+  },
+  {
+    "imageSrc": "https://img.freepik.com/photos-premium/salade-russe-traditionnelle-vinaigrette-betteraves-pommes-terre-carottes-haricots-cornichons-oignons-huile-vegetale-fond-gris-nourriture-vegetarienne_130716-4271.jpg",
+    "title": "Salade russe",
+    "ingredients": [
+      "betterave",
+      "oignon",
+      "pomme de terre",
+      "carotte",
+      "cornichons",
+      "[hareng]"
+    ]
+  },
+  {
+    "imageSrc": "https://images.pexels.com/photos/674574/pexels-photo-674574.jpeg",
+    "title": "Aloo matar",
+    "ingredients": [
+      "petits pois",
+      "pomme de terre",
+      "oignon",
+      "concentré de tomate",
+      "lait de coco"
+    ]
+  },
+  {
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ensaladilla_rusa_-_%28Sin_mahonesa%29.JPG/1920px-Ensaladilla_rusa_-_%28Sin_mahonesa%29.JPG",
+    "title": "Macédoine",
+    "ingredients": [
+      "petits pois",
+      "haricots verts",
+      "carotte",
+      "navet"
+    ]
+  },
+  {
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Shakshuka_by_Calliopejen1.jpg/1280px-Shakshuka_by_Calliopejen1.jpg",
+    "title": "Chakchouka",
+    "ingredients": [
+      "poivron",
+      "tomate",
+      "oignon",
+      "merguez",
+      "oeuf"
+    ]
+  },
+  {
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Korean_potato_pancake-Gamjajeon-02.jpg",
+    "title": "Latkes",
+    "ingredients": [
+      "riz",
+      "oeuf",
+      "courgette",
+      "[farine]",
+      "[pomme de terre]"
+    ]
+  },
+  {
+    "imageSrc": "https://images.pexels.com/photos/7362673/pexels-photo-7362673.jpeg",
+    "title": "Salade chou rouge",
+    "ingredients": [
+      "chou rouge",
+      "pomme",
+      "[noix]",
+      "[roquefort]"
+    ]
+  },
+  {
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Colcannon.JPG/1024px-Colcannon.JPG",
+    "title": "Colcannonn",
+    "ingredients": [
+      "chou vert",
+      "pomme de terre",
+      "beurre",
+      "[lait]",
+      "[muscade]"
+    ]
+  }
+]

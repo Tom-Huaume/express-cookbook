@@ -1,0 +1,8 @@
+<div class="w3-quarter">
+  <img [src]="recipe.imageSrc" [alt]="recipe.title">
+  <h3>{{recipe.title}}</h3>
+  <ul>
+    <li *ngFor="let i of recipe.ingredients">{{i}}</li>
+  </ul>
+  <p>----</p>
+</div>

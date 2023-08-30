@@ -1,1 +1,5 @@
-home
+<div *ngFor="let chunk of recipesChunks" class="w3-row-padding w3-padding-16 w3-center">
+  <div *ngFor="let recipe of chunk">
+    <app-recipe-card [recipe]="recipe"></app-recipe-card>
+  </div>
+</div>
